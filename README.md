@@ -1,6 +1,6 @@
 # RSA: 用于响应面分析的SPSS宏    
 # RSA: SPSS macro for response surface analysis    
-*Copyright (C) 2021-2023 by Qiu Zongman    
+*Copyright (C) 2021-2024 by Qiu Zongman    
 *License: Apache 2.0    
 *E-mail: qiuzongman@foxmail.com    
 *Research Gate: Zongman Qiu    
@@ -29,6 +29,6 @@
 *数据保存：变量、Bootstrap估计，以及三阶RSA的范围检查    
 
 # 更新日志    
-## [4.0.1] - 2023-1-6    
+## [4.0.1] - 2024-1-6    
 ### 修复    
 *Delta方法中的一个错误，这个错误会导致二阶RSA模型参数标准误在特定条件下错位，例如p11和p21的标准误位置互换    
