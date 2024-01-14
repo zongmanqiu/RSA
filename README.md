@@ -6,8 +6,10 @@
 *Research Gate: Zongman Qiu    
 *Bilibili: 邱宗满 (ID: 423767625)    
 *微信公众号: 邱宗满 (ID: qiuzongman2020)    
-*项目托管在Github: https://github.com/zongmanqiu/RSA    
-    
+*项目托管在Github和Gitee:    
+*https://github.com/zongmanqiu/RSA    
+*https://gitee.com/qiuzongman/RSA    
+
 # 功能    
 ## 二阶RSA    
 *20个二阶RSA核心参数    
