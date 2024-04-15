@@ -1,6 +1,7 @@
 # RSA: 用于响应面分析的SPSS宏    
 # RSA: SPSS macro for response surface analysis    
-*Copyright (C) 2021-2024 by Qiu Zongman    
+*Version: 4.0.3    
+*Copyright (C) 2020-2024 by Qiu Zongman    
 *License: Apache 2.0    
 *E-mail: qiuzongman@foxmail.com    
 *Research Gate: Zongman Qiu    
@@ -9,6 +10,9 @@
 *项目托管在Github和Gitee:    
 *https://github.com/zongmanqiu/RSA    
 *https://gitee.com/qiuzongman/RSA    
+*引用    
+*Qiu, Zongman. (2024). RSA: SPSS macro for response surface analysis. SPSS Extension Version 4.0.3. https://github.com/zongmanqiu/RSA    
+
 
 # 功能    
 ## 二阶RSA    
@@ -29,8 +33,3 @@
 *Bootstrap估计    
 *边际均值估计，及其配对比较    
 *数据保存：变量、Bootstrap估计，以及三阶RSA的范围检查    
-
-# 更新日志    
-## [4.0.2] - 2024-1-14    
-### 修复    
-*修复矩阵输结果输出，与其它未强制设定格式的程序相容（如process），用户可以运行“SET MDISPLAY=TABLES.”或“SET MDISPLAY=TEXT.”改变矩阵输出格式    
