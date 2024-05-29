@@ -1,6 +1,6 @@
 # RSA: 用于响应面分析的SPSS宏    
 # RSA: SPSS macro for response surface analysis    
-*Version: 4.0.3    
+*Version: 4.0.4    
 *Copyright (C) 2020-2024 by Qiu Zongman    
 *License: Apache 2.0    
 *E-mail: qiuzongman@foxmail.com    
@@ -11,7 +11,7 @@
 *https://github.com/zongmanqiu/RSA    
 *https://gitee.com/qiuzongman/RSA    
 *引用    
-*Qiu, Zongman. (2024). RSA: SPSS macro for response surface analysis. SPSS Extension Version 4.0.3. https://github.com/zongmanqiu/RSA    
+*Qiu, Zongman. (2024). RSA: SPSS macro for response surface analysis. SPSS Extension Version 4. https://github.com/zongmanqiu/RSA    
 
 
 # 功能    
